@@ -1,6 +1,6 @@
 <div align="center">
-
-<img width="1200" height="475" alt="Portfolio Banner" src="https://raw.githubusercontent.com/SakshiBure/Sakshi-portfolio/main/banner.png"/>
+<img width="1200" alt="Portfolio Banner" src="https://raw.githubusercontent.com/SakshiBure/Sakshi-portfolio/main/portfolio-banner.png"/>
+</div>
 
 # Sakshi Bure – Data Analyst Portfolio
 
