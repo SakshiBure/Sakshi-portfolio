@@ -1,20 +1,200 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6"/>
+
+# Sakshi Bure – Data Analyst Portfolio
+
+A modern interactive portfolio website showcasing my **Data Analytics, SQL, Python, and Dashboard projects**.
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🌐 Live Portfolio
 
-View your app in AI Studio: https://ai.studio/apps/c3c3bafe-8a4d-4790-a197-9736b720008a
+View the live website:
 
-## Run Locally
+**Portfolio:**
+https://your-portfolio-link.com
 
-**Prerequisites:**  Node.js
+---
+
+## 📌 About This Project
+
+This portfolio website highlights my work in:
+
+• SQL data analysis projects
+• Data visualization and dashboards
+• Python data analysis
+• Real-world data insights
+
+The website is designed to present my **technical skills, projects, and analytics experience** in an interactive and visually engaging way.
+
+---
+
+## 🛠️ Technologies Used
+
+* Next.js
+* TypeScript
+* TailwindCSS
+* Framer Motion
+* Modern responsive UI design
+
+---
+
+## 💻 Run the Project Locally
+
+### Prerequisites
+
+Install **Node.js** before running the project.
+
+### 1️⃣ Install dependencies
+
+```
+npm install
+```
+
+### 2️⃣ Run the development server
+
+```
+npm run dev
+```
+
+### 3️⃣ Open the website
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio/
+│
+├── app
+├── components
+├── public
+├── styles
+├── package.json
+└── README.md
+```
+
+---
+
+## 👩‍💻 Author
+
+**Sakshi Bure**
+
+GitHub
+https://github.com/SakshiBure
+
+LinkedIn
+<div align="center">
+
+<img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6"/>
+
+# Sakshi Bure – Data Analyst Portfolio
+
+A modern interactive portfolio website showcasing my **Data Analytics, SQL, Python, and Dashboard projects**.
+
+</div>
+
+---
+
+## 🌐 Live Portfolio
+
+View the live website:
+
+**Portfolio:**
+https://your-portfolio-link.com
+
+---
+
+## 📌 About This Project
+
+This portfolio website highlights my work in:
+
+• SQL data analysis projects
+• Data visualization and dashboards
+• Python data analysis
+• Real-world data insights
+
+The website is designed to present my **technical skills, projects, and analytics experience** in an interactive and visually engaging way.
+
+---
+
+## 🛠️ Technologies Used
+
+* Next.js
+* TypeScript
+* TailwindCSS
+* Framer Motion
+* Modern responsive UI design
+
+---
+
+## 💻 Run the Project Locally
+
+### Prerequisites
+
+Install **Node.js** before running the project.
+
+### 1️⃣ Install dependencies
+
+```
+npm install
+```
+
+### 2️⃣ Run the development server
+
+```
+npm run dev
+```
+
+### 3️⃣ Open the website
+
+```
+http://localhost:3000
+```
+
+---
+
+## 📂 Project Structure
+
+```
+portfolio/
+│
+├── app
+├── components
+├── public
+├── styles
+├── package.json
+└── README.md
+```
+
+---
+
+## 👩‍💻 Author
+
+**Sakshi Bure**
+
+GitHub
+https://github.com/SakshiBure
+
+LinkedIn
+(Add your LinkedIn profile link here)
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star on GitHub**.
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a **star on GitHub**.
